@@ -1,10 +1,4 @@
 # 🧪 Lab 01 – Introduction to Python
-
-## Table Of Content
-- [Overview](#overview)
-- [Objectives](#objectives)
-- [Topics Covered](#topics-covered)
-- [Files](#files)
 ---
 ## 📚 Overview
 This lab introduces the basics of Python programming. It focuses on core syntax, data types, variables, and basic input/output operations.
@@ -23,8 +17,8 @@ This lab introduces the basics of Python programming. It focuses on core syntax,
 - Simple decision making with if statements
 
 ## 📁 Files
-- lab01_tasks: contains practice tasks from the session
-- lab01.py: contains sample solutions
+- Python_lab01_tasks: contains practice tasks from the session
+- Python_lab01.ipy: contains sample solutions
 
 
 
