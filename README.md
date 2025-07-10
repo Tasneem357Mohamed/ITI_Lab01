@@ -17,8 +17,8 @@ This lab introduces the basics of Python programming. It focuses on core syntax,
 - Simple decision making with if statements
 
 ## 📁 Files
-- Python_lab01_tasks: contains practice tasks from the session
-- Python_lab01.ipy: contains sample solutions
+- Python_lab01 Tasks: contains practice tasks from the session
+- Python_lab01.ipynb: contains sample solutions
 
 
 
